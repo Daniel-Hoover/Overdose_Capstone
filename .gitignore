@@ -58,6 +58,9 @@ cover/
 #data
 /data
 
+#cleaned_data
+/cleaned_data
+
 # Django stuff:
 *.log
 local_settings.py
